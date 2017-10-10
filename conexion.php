@@ -1,6 +1,6 @@
 <?php
 
-$conexion= new mysqli("localhost","root","","rtb");
+$conexion= new mysqli("localhost","root","","rtb_");
 
 if($conexion){ 
 echo".";
